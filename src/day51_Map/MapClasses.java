@@ -52,5 +52,7 @@ public class MapClasses {
 
         System.out.println("HasMapTable= " + hashtable);
 
+        //new command
+
     }
 }
